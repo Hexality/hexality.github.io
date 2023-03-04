@@ -1,4 +1,4 @@
 # hexality.github.io
 To do: 
-[ ] Mobile side of the thing
-[ ] Something else
+- [ ] Mobile side of the thing
+- [ ] Something else
